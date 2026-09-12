@@ -13,9 +13,13 @@ Construite avec Expo SDK 57, React Native 0.86, expo-router 57 et TypeScript.
 ## Démarrer
 
 ```bash
-npm install     # si ce n'est pas déjà fait
+git clone https://github.com/Tony6tere/stayhome-mobile.git
+cd stayhome-mobile
+npm install
 npm start       # puis scanner le QR code avec Expo Go
 ```
+
+Expo Go doit être en **SDK 57** (la version du Play Store / App Store l'est).
 
 | Commande | Effet |
 | --- | --- |
